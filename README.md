@@ -5,7 +5,7 @@ One sentence: Ekhanei Shob is a university-based platform where students can fin
 | | |
 |---|---|
 | **Team** | Afifa Sultana Arobi(@Arobi123),Team Lead . Nonima Hoque Ridi(@nridi2410019-hub), Fronted Lead .Tasfia Tahmid Mounota(@tahmid7-35),Backend Lead |
-| **Jira board** | https://YOUR-SITE.atlassian.net/jira/software/projects/KEY/boards/1 |
+| **Jira board** | https://ekhaneishob.atlassian.net/jira/software/projects/SCRUM/boards/1 |
 | **Live app** | Added in Class 8 |
 | **Stack** | Frontend: … · Backend: … · Database: … · External API: … |
 | **Course** | UIU CSE 3422 Software Engineering Laboratory |
